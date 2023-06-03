@@ -1,0 +1,17 @@
+/Users/berk/Desktop/Kargomento/KargomentoDL/bin/Debug/net6.0/KargomentoDL.deps.json
+/Users/berk/Desktop/Kargomento/KargomentoDL/bin/Debug/net6.0/KargomentoDL.runtimeconfig.json
+/Users/berk/Desktop/Kargomento/KargomentoDL/bin/Debug/net6.0/KargomentoDL.dll
+/Users/berk/Desktop/Kargomento/KargomentoDL/bin/Debug/net6.0/KargomentoDL.pdb
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.csproj.AssemblyReference.cache
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.AssemblyInfoInputs.cache
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.AssemblyInfo.cs
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.csproj.CoreCompileInputs.cache
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.dll
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/refint/KargomentoDL.dll
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.pdb
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.genruntimeconfig.cache
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/ref/KargomentoDL.dll
+/Users/berk/Desktop/Kargomento/KargomentoDL/bin/Debug/net6.0/KargomentoEL.dll
+/Users/berk/Desktop/Kargomento/KargomentoDL/bin/Debug/net6.0/KargomentoEL.pdb
+/Users/berk/Desktop/Kargomento/KargomentoDL/obj/Debug/net6.0/KargomentoDL.csproj.CopyComplete

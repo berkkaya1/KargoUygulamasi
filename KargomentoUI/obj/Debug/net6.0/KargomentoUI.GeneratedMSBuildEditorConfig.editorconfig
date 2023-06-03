@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KargomentoUI
+build_property.RootNamespace = KargomentoUI
+build_property.ProjectDir = /Users/berk/Desktop/Kargomento/KargomentoUI/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/berk/Desktop/Kargomento/KargomentoUI
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0FjY291bnQvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0FjY291bnQvUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Home/AssignAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0hvbWUvQXNzaWduQWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Home/CreateCargo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0hvbWUvQ3JlYXRlQ2FyZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Home/IncomingCargo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0hvbWUvSW5jb21pbmdDYXJnby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Home/OutgoingCargo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL0hvbWUvT3V0Z29pbmdDYXJnby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Shared/Components/BranchSideBarMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL0JyYW5jaFNpZGVCYXJNZW51L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Shared/Components/TopBarMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL1RvcEJhck1lbnUvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/Shared/_LayoutBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL1NoYXJlZC9fTGF5b3V0QnJhbmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Branch/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQnJhbmNoL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9BZG1pbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/AllBranches.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9BbGxCcmFuY2hlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/AllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9BbGxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/AssignBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9Bc3NpZ25CcmFuY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/BranchEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9CcmFuY2hFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9FZGl0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Admin/NewBranchAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9BZG1pbi9OZXdCcmFuY2hBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/Shared/Components/ManagerSideBarMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9TaGFyZWQvQ29tcG9uZW50cy9NYW5hZ2VyU2lkZUJhck1lbnUvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/_AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9fQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/_LayoutAdminDark.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9fTGF5b3V0QWRtaW5EYXJrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Areas/Manager/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvTWFuYWdlci9WaWV3cy9fVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/CarrierCall/CallCarrier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FycmllckNhbGwvQ2FsbENhcnJpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Home/CargoStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYXJnb1N0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Shared/Components/TopMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvVG9wTWVudS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Shared/_LayoutCargomento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXRDYXJnb21lbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/berk/Desktop/Kargomento/KargomentoUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9fcz73rt4h
